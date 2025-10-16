@@ -1,0 +1,24 @@
+# Sensitive files
+.env
+*.key
+*.pem
+config.json
+secrets.yml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large files - network captures
+*.pcap
+*.pcapng
+
+# Malicious files (security)
+malware_samples/
+*.exe
+*.dll
+
+# Temporary files
+*.tmp
+*.log
+*.bak

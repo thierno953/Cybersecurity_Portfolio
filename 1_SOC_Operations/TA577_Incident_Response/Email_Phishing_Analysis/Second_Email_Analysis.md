@@ -181,7 +181,7 @@ _script.google.com/exec/ - Known phishing technique_
 
 1. **Training** on file extension spoofing
 2. **Reporting** procedures for suspicious emails
-3. **Verification** steps for account lock messages
+3. **Verification** steps for account lock messages 
 
 ## Conclusion
 

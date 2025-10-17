@@ -10,7 +10,7 @@
 
 As part of SOC training, I conducted a comprehensive email forensic analysis to identify phishing indicators through header analysis, authentication verification, and OSINT correlation.
 
-### Download
+### Download 
 
 - [First_Email.zip](/1_SOC_Operations/TA577_Incident_Response/Email_Phishing_Analysis/First_Email.zip)
 

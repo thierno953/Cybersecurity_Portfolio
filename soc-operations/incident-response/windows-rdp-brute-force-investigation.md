@@ -18,7 +18,7 @@
 
 #### Recommended location: `C:\Sysmon\`
 
-- PowerShell Commands:
+- PowerShell Commands: 
 
 ```sh
 # Navigate to the Sysmon directory

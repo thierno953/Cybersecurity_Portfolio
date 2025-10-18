@@ -1,49 +1,58 @@
 # 🛡️ Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio focused on SOC (Security Operations Center) operations.
-
-## 🎯 Skills Overview
-
-### 🔥 SOC Operations
-
-- **Incident Response**: Complete TA577 investigation (phishing → malware)
-- **SIEM Splunk**: Dashboards, alerts, reporting and monitoring
-- **Security Monitoring**: Threat detection and surveillance
-
-### 🎯 Threat Detection
-
-- **Sigma Hunting**: Detection rules covering 8 MITRE ATT&CK techniques
-- **EDR & Forensics**: Investigation with Wazuh and Velociraptor
-- **Network Security**: Zeek analysis, Suricata and encrypted traffic analysis
-
-### ⚡ Security Engineering
-
-- **SOC Automation**: Playbooks and SOAR integration
-- **Detection Lab**: Security lab architecture
-- **Digital Forensics**: Memory analysis and advanced investigations
-
-## 🚀 Main Projects
-
-### 1. Complete TA577 Investigation
-
-Real cyberattack investigation from phishing email to malware analysis, with IOC extraction and professional reporting.
-
-### 2. SIEM Splunk Operations
-
-Monitoring dashboard creation, alert configuration and detection query development.
-
-### 3. Advanced Threat Hunting
-
-Sigma rules development for proactive detection and threat hunting.
-
-## 🔧 Mastered Technologies
-
-- **SIEM**: Splunk, Elastic Stack
-- **EDR**: Wazuh, Velociraptor
-- **Network**: Zeek, Suricata, Wireshark
-- **Analysis**: YARA, Volatility, MITRE ATT&CK
-- **Automation**: Python, SOAR, Terraform
+Welcome to my **Cybersecurity Portfolio**.  
+This repository showcases my hands-on investigations in **SOC operations**, **incident response**, **digital forensics**, and **threat analysis**.
 
 ---
 
-_Portfolio built from practical training and concrete SOC cybersecurity projects._
+## 🔥 SOC OPERATIONS
+
+_Real-world security monitoring and incident response scenarios_
+
+### 🕵️ Incident Response
+
+- `m365-impossible-travel-detection.md` – Cloud account compromise investigation
+- `windows-ad-account-compromise.md` – Active Directory security analysis
+- `email-phishing-investigation.md` – Phishing campaign analysis
+- `ta577-incident-response.md` – Full-scale incident handling
+
+### 📊 Security Monitoring
+
+- `splunk-custom-dashboard.md` – Custom SOC dashboard development
+- `splunk-alert-creation.md` – Proactive threat detection rules
+- `elk-ssh-brute-force-detection.md` – Linux attack detection with ELK
+
+### 🔍 Forensic Analysis
+
+- `forensic-timeline-reconstruction.md` – Attack timeline reconstruction
+- `memory-forensics-analysis.md` – Malware analysis with Volatility
+- `windows-forensic-analysis.md` – Windows system forensic investigation
+
+---
+
+## ⚡ TECHNICAL SKILLS
+
+_Advanced cybersecurity technical capabilities_
+
+### 🦠 Malware Analysis
+
+- `yara-malware-detection.md` – Custom malware detection rules
+- `ta577-malware-investigation.md` – Advanced malware case study
+
+### 🌐 Network Security
+
+- `suricata-network-investigation.md` – Network threat detection & analysis
+
+### 💻 System Forensics
+
+- `linux-forensic-analysis.md` – Linux incident response & forensics
+
+---
+
+## 🛠️ Tools & Technologies
+
+**SIEM:** Splunk, ELK Stack, Wazuh  
+**Forensics:** Volatility, Autopsy, FTK Imager  
+**Security:** Suricata, YARA, Sysmon, Velociraptor  
+**Scanning:** Nessus, OpenVAS, Nmap  
+**Programming:** Python, Bash, PowerShell

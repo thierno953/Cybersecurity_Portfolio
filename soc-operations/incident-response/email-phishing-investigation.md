@@ -379,6 +379,7 @@ _script.google.com/exec/ - Known phishing technique_
 
 ### File Hashes
 
+- Learn more: [Parse a User Agent String](https://www.freecodecamp.org/news/what-is-base64-encoding/)
 - Base64-encoded HTML attachment SHA256: [Hash would go here](https://www.freecodecamp.org/news/what-is-base64-encoding/)
 
 ### URLs
@@ -416,3 +417,21 @@ This investigation uncovered a **sophisticated multi-layer phishing attack** abu
 ---
 
 _This case highlights the importance of technical controls beyond basic email authentication and user education on advanced phishing tactics._
+
+---
+
+# Other resources
+
+## Extra: Email Analysis Tools
+
+- **MXToolbox**: [https://mxtoolbox.com/](https://mxtoolbox.com/)
+
+- **Sublime Security**: [https://analyzer.sublimesecurity.com/](https://analyzer.sublimesecurity.com/)
+
+- **CyberDefenders MHA**: [https://github.com/cyberdefenders/email-header-analyzer](https://github.com/cyberdefenders/email-header-analyzer)
+
+## Extra: Phishing Analysis
+
+- Additional phishing exercise from BTLO Cyber Range
+
+- The Planet's Prestige [https://blueteamlabs.online/home/challenge/the-planets-prestige-e5beb8e545](https://blueteamlabs.online/home/challenge/the-planets-prestige-e5beb8e545)

@@ -13,30 +13,19 @@ _Real-world security monitoring and incident response scenarios_
 
 - `m365-impossible-travel-detection.md` - Cloud account compromise investigation
 - `windows-ad-account-compromise.md` - Active Directory security analysis
-- `linux-user-account-investigation.md` - Linux user account monitoring
 - `ta577-incident-response.md` - Full-scale incident handling
 - `email-phishing-investigation.md` - Phishing campaign analysis
-- `windows-rdp-brute-force-investigation.md` - RDP attack investigation
-- `linux-ssh-brute-force-detection.md` - SSH brute force detection
-- `windows-powershell-abuse-investigation.md` - PowerShell attack analysis
-- `linux-bash-malicious-commands.md` - Linux command monitoring
 
 ### 📊 Security Monitoring
 
 - `splunk-custom-dashboard.md` - Custom SOC dashboard development
 - `splunk-alert-creation.md` - Proactive threat detection rules
-- `wazuh-threat-hunting.md` - Threat hunting with Wazuh EDR
-- `suricata-network-threat-detection.md` - Network IDS monitoring
 
 ### 🔍 Forensic Analysis
 
 - `forensic-timeline-reconstruction.md` - Attack timeline reconstruction
 - `memory-forensics-analysis.md` - Malware analysis with Volatility
 - `windows-forensic-analysis.md` - Windows system forensic investigation
-- `linux-forensic-analysis.md` - Linux incident response & forensics
-- `sysmon-linux-threat-detection.md` - Advanced Linux monitoring
-- `windows-registry-monitoring.md` - Windows registry forensic analysis
-- `file-integrity-monitoring.md` - File integrity monitoring
 
 ---
 
@@ -63,8 +52,6 @@ _Advanced threat investigation and malware analysis_
 ## 🎯 Career Objective
 
 🔍 Passionate about **threat detection**, **incident response**, and **digital forensics**
-
-> _"Cybersecurity is not just about defense — it's about understanding the attacker's mindset and staying one step ahead."_
 
 ---
 

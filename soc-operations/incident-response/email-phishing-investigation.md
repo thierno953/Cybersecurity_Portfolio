@@ -379,11 +379,11 @@ _script.google.com/exec/ - Known phishing technique_
 
 ### File Hashes
 
-- Learn more: [Parse a User Agent String](https://www.freecodecamp.org/news/what-is-base64-encoding/)
 - Base64-encoded HTML attachment SHA256: [Hash would go here](https://www.freecodecamp.org/news/what-is-base64-encoding/)
 
 ### URLs
 
+- Parse User Agents: [https://explore.whatismybrowser.com/useragents/parse/#parse-useragent](https://explore.whatismybrowser.com/useragents/parse/#parse-useragent)
 - CyberChef Github: [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)
 - CyberChef Recipes: [https://github.com/mattnotmax/cyberchef-recipes](https://github.com/mattnotmax/cyberchef-recipes)
 

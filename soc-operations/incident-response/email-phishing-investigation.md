@@ -1,4 +1,4 @@
-# Email Phishing Investigation - Advanced Header & OSINT Analysis
+# I - ) Email Phishing Investigation - Advanced Header & OSINT Analysis
 
 ## Executive Summary
 
@@ -219,7 +219,7 @@ _All forensic evidence preserved and documented for potential incident response 
 
 ---
 
-# Advanced Phishing Investigation - Credential Harvesting Campaign
+# II - ) Advanced Phishing Investigation - Credential Harvesting Campaign
 
 ## Executive Summary
 

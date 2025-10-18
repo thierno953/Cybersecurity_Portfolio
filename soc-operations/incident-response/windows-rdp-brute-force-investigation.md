@@ -39,7 +39,7 @@ Get-Service Sysmon*
 
 #### Log File Location Path: `Event Viewer > Applications and Services Logs > Microsoft > Windows > Sysmon > Operational`
 
-![ELK](/Elastic_Stack_Windows/assets/01.png)
+![ELK](/soc-operations/incident-response/assets/01-windows-rdp-brute-force-investigation.png)
 
 ## Integration with ELK (Fleet/Elastic Agent)
 
@@ -67,7 +67,7 @@ apt install hydra -y
 hydra -l administrator -P password.txt rdp://<target-ip>
 ```
 
-![ELK](/Elastic_Stack_Windows/assets/02.png)
+![ELK](/soc-operations/incident-response/assets/02-windows-rdp-brute-force-investigation.png)
 
 #### Visualization in Kibana (ELK)
 
@@ -77,4 +77,4 @@ hydra -l administrator -P password.txt rdp://<target-ip>
 event.code: 3 and source.ip: "<IP_ATTACKER>" and rule.name: "RDP"
 ```
 
-![ELK](/Elastic_Stack_Windows/assets/03.png)
+![ELK](/soc-operations/incident-response/assets/03-windows-rdp-brute-force-investigation.png)

@@ -1,7 +1,7 @@
 # 🛡️ Cybersecurity Portfolio
 
-Welcome to my **Cybersecurity Portfolio**.  
-This repository showcases my hands-on investigations in **SOC operations**, **incident response**, **digital forensics**, and **threat analysis**.
+Welcome to my **Cybersecurity Portfolio** — a showcase of my hands-on projects in **SOC operations**, **incident response**, **digital forensics**, and **threat analysis**.  
+Each investigation reflects real-world cybersecurity scenarios and technical problem-solving skills.
 
 ---
 
@@ -55,4 +55,16 @@ _Advanced cybersecurity technical capabilities_
 **Forensics:** Volatility, Autopsy, FTK Imager  
 **Security:** Suricata, YARA, Sysmon, Velociraptor  
 **Scanning:** Nessus, OpenVAS, Nmap  
-**Programming:** Python, Bash, PowerShell
+**Scripting:** Python, Bash, PowerShell
+
+---
+
+## 🎯 Objective
+
+💼 Aspiring **SOC Analyst / Cybersecurity Intern**  
+🎓 Background: Technician in Programming transitioning into Cybersecurity  
+🔍 Passionate about **threat detection**, **incident response**, and **defensive operations**
+
+---
+
+> _“Cybersecurity is not just about defense — it's about understanding the attacker’s mindset.”_
